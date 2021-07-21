@@ -3,8 +3,6 @@
   throws UnderAge exception if the variable age passed to 
   it as argument is less than 18.
 */
-package com.company;
-
 import java.util.Scanner;
 class exceptionDemo {
     static void test(int age) throws UnderAge {
