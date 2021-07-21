@@ -5,8 +5,6 @@
   age passed to it as argument is less than 18. Write main() method also to show working
   of the program.
 */
-package com.company;
-
 public class UnderAge extends Exception {
     final private int age;
     public UnderAge(int age) {
